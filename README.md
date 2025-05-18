@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🐰 It's me again , i'm back , let's talk ASAP 💕</h2>
+<h2 align="center">Hi</h2>
 
 ###
 
