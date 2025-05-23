@@ -1,8 +1,8 @@
-<h2 align="center">Hi</h2>
+<h2 align="center">Giovanna Ap</h2>
 
 ###
 
-<p align="left">I'm Giovanna</p>
+<p align="left"></p>
 
 ###
 
@@ -42,6 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 </div>
 
 ###
