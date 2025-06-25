@@ -6,7 +6,7 @@
 
 <h2> Olá eu sou Giovanna Ap</h2>
 
-<p> Estudante de ciencia da computação focada em web-desenvolvimento e cyber-segurança.Possuo experiência e habilidade para criação de agradeveis, responsivas e dinâmicas aplicações para a web.
+<p> Estudante de ciência da computação focada em web-desenvolvimento e cyber-segurança.Possuo experiência e habilidade para criação de agradeveis, responsivas e dinâmicas aplicações para a web.
 Além do conhecimento web, atualmente continuo estudando e me especializando para atuar como redTeam na área de teste de intrusão e hacking ético em minha segunda area de cybersegurança.
 </p>
 
